@@ -21,9 +21,6 @@ sandboxing, observability — not just prompting on top of a model.
   service with guardrails: prompt-injection classification, PII redaction, and a
   hardened FastAPI surface. *Python · FastAPI · Presidio.*
 
-#### 🌱 Currently
-
-Open to **AI / ML Engineer** roles — remote or relocating.
 
 #### 📫 Reach me
 
