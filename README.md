@@ -1,6 +1,6 @@
 ### Hi, I'm Inés 👋
 
-**AI Engineer** — I build agent infrastructure and LLM systems, end to end.
+**AI Engineer** - I build agent infrastructure and LLM systems, end to end.
 
 ![Python](https://img.shields.io/badge/python-3.14-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-async-009688)
